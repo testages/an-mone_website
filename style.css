@@ -109,7 +109,7 @@ body {
 
 
 .subcontainer-2{
-    background-color: burlywood;
+    /*    background-color: burlywood;*/
     flex-direction: column;
     padding: 25px;
 }
